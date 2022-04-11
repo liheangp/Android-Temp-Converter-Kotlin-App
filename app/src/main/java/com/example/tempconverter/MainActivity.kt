@@ -65,18 +65,6 @@ class MainActivity : AppCompatActivity() {
 
 
 
-//            //Convert Button
-//            convert.setOnClickListener {
-//                val fTemp: String = fahrenheit.text.toString()
-//                fTemp?.let{
-//                    val result = ((fTemp.toDouble() - 32) * 5) / 9
-//                    result?.let{
-//                        celsius.text = ("$fTemp" + "F = " + "%.0f".format(result) + "C")
-//                    }
-
-
-
-
 
 
 
